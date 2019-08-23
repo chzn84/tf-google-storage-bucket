@@ -33,4 +33,6 @@ Inspec tests should be written to test the module and run through kitchen
     gcp_key_ring_name: 'my-gcp-keyring'
     gcp_key_name: 'my-gcp-key'
 
+## Running terraform and test using Kitchen
+- Run 'kitchen test' from project directory
 ```
