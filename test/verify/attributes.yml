@@ -1,0 +1,4 @@
+gcp_project_id: 'chzn84-gcp-project'
+gcp_storage_bucket: 'chzn84-gcp-bucket-2'
+gcp_key_ring_name: 'chzn84-gcp-keyring-2'
+gcp_key_name: 'chzn84-gcp-key-2'
