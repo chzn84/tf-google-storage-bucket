@@ -12,15 +12,15 @@ attributes:
   required: true
   description: 'The GCP project identifier.'
   type: string
-- name: google_storage_bucket
+- name: gcp_storage_bucket
   required: true
   description: 'The GCP storage bucket.'
   type: string
-- name: key_ring_name
+- name: gcp_key_ring_name
   required: true
   description: 'The GCP key ring name.'
   type: string
-- name: key_name
+- name: gcp_key_name
   required: true
   description: 'The GCP key_name.'
   type: string
